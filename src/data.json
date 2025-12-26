@@ -1,0 +1,30 @@
+{
+  "title": "REZULTATAI",
+  "tasks": [
+    "UŽDUOTIS 1",
+    "UŽDUOTIS 2",
+    "UŽDUOTIS 3"
+  ],
+  "participants": [
+    {
+      "name": "NeonGhost",
+      "scores": [95, 88, 92]
+    },
+    {
+      "name": "CyberPhantom",
+      "scores": [87, 94, 89]
+    },
+    {
+      "name": "ByteRunner",
+      "scores": [92, 79, 85]
+    },
+    {
+      "name": "CodeBreaker",
+      "scores": [78, 91, 88]
+    },
+    {
+      "name": "ShadowDev",
+      "scores": [85, 82, 90]
+    }
+  ]
+}
